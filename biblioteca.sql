@@ -42,12 +42,12 @@ CREATE TABLE `clientes` (
 --
 
 INSERT INTO `clientes` (`Id_cliente`, `CPF`, `Nome`, `Email`, `CEP`, `Data_nasc`, `Num_telefone`) VALUES
-(1, 15298475715, 'Adnael de Oliveira Péricles', 'AdP3ricl3s@gmail.com', 2147483647, '1927-10-10', 81936548217),
-(2, 19584992214, 'Clécio Cleber de Alcântara Ferreira', 'Clécio@gmail.com', 995010190, '2007-03-05', 81964571748),
-(3, 87748228611, 'Romeu Roman Silveira do Nascimento', 'RomeuRSdN@gmail.com', 95430267, '2002-09-17', 81994526172),
-(4, 78952143509, 'Hades da Costa Ribeiro', 'Senhordosubmundo@outlook.com', 66666999, '0000-00-00', 81919934782),
-(5, 12567852517, 'Galadan Arthur Luís Sukuna', 'GaladanArthurLuisSukuna.org@hotmail.com', 12365478, '1957-02-21', 81917184586),
-(6, 32459893110, 'Euclides de Alexandria', 'EuclidesDXande@gmail.com', 4651552, '1975-02-28', 81938418325),
+(1, 15298475715, 'Manoel Tavares', 'Manut@gmail.com', 2147483647, '1927-10-10', 81936548217),
+(2, 19584992214, ' Cleber de Lima Ferreira', 'CFLIma@gmail.com', 995010190, '2007-03-05', 81964571748),
+(3, 87748228611, 'Romeu Nascimento', 'RomeuRSdN@gmail.com', 95430267, '2002-09-17', 81994526172),
+(4, 78952143509, 'Ribeiro Hades', 'hades123o@outlook.com', 66666999, '0000-00-00', 81919934782),
+(5, 12567852517, 'Arthur Sukuna', 'Asukuna.org@hotmail.com', 12365478, '1957-02-21', 81917184586),
+(6, 32459893110, 'Euclides de Alexandria Sobral', 'EuclideSXande@gmail.com', 4651552, '1975-02-28', 81938418325),
 (7, 7598436854, 'Rodrigo Arnaldo de Albuquerque', 'Rodrigardobuque@gmail.com', 75634895, '1990-07-24', 81935389404);
 
 -- --------------------------------------------------------
